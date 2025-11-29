@@ -33,4 +33,4 @@ Save links and highlighted text with a simple right-click.
 
 ## License
 
-MIT License
+PUBLIC ...
